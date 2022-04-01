@@ -1,0 +1,5 @@
+"/Users/imac/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/imac/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja /Users/imac/Desktop/SFML2022Project/SFMLWasdViewNavigator
+-- Found SFML 2.5.1 in /Library/Frameworks/SFML.framework/Resources/CMake
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/imac/Desktop/SFML2022Project/SFMLWasdViewNavigator/cmake-build-debug
