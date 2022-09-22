@@ -1,2 +1,3 @@
 # SFMLwasdViewNavigator
-This is Pan and Zoom coding project which is created by SFML.
+This project is used for demonstrate how to write 
+2D Panning and 2D Zooming Algorithmns with SFML and C++.
